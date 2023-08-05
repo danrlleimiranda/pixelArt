@@ -100,6 +100,7 @@ pixels.style.alignItems = "center";
 pixels.style.flexFlow = "row wrap";
 pixels.style.margin = "auto";
 pixels.style.marginTop = "50px";
+pixels.style.marginBottom = "50px";
 pixels.setAttribute("id", "pixel-board");
 
 

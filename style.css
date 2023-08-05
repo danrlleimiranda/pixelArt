@@ -2,12 +2,10 @@
 
 * {
   font-family: 'Press Start 2P', cursive;
+ 
 }
 body {
-  width: 100vw;
-  height: 100vh;
   background-color: rgb(49, 49, 49);
-  overflow: hidden;
 }
 
 #color-palette {
